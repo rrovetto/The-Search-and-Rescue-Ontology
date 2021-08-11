@@ -10,3 +10,7 @@ SAR_personnel
 SAR_role
 SAR_activity
 SAR_data
+
+
+## Copyright
+© 2016-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
