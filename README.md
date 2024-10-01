@@ -16,7 +16,8 @@ SAR_data
 
 ## Works & History
 - In 2020 - SAR-O version 0.1 Copyright registered.
-- In 2016 (approx.) Original paper on an ontology of SAR, with maritime module focus, initiated. ![image]()  
+- In 2016 (approx.) Original paper on an ontology of SAR, with maritime module focus, initiated.
+ ![image](https://github.com/rrovetto/The-Search-and-Rescue-Ontology/blob/460f92473c916d041ff8dfca6c22c132f68b33ec/images/Proof_ideation_SAR-O_Rovetto_FileProperties_2016-original-paper.jpg)
 
 ## Copyright
 © 2016-2024, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
