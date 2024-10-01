@@ -11,7 +11,7 @@ rrovetto@terpalum.umd.edu
 ### Architecture 
 <details>
 <summary>Simplified Architecture Diagram</summary>
-<img src="https://github.com/rrovetto/The-Search-and-Rescue-Ontology/blob/1e28646ff602b40dfbb4494d03d38eb40ea43861/images/SARO-Arch_Rovetto.jpg" width="400">
+<img src="https://github.com/rrovetto/The-Search-and-Rescue-Ontology/blob/2374a9eb7e4e0c3cfdace677aac1b07509e2725e/images/SARO-Arch_Rovetto.jpg" width="600">
 </details>
 
 SAR-O is intended to capture generic concepts, and provide corresponding vocabulary for more specialized SAR ontology modules: maritime, ground, etc. An ontology modeule for each type of SAR can be made, and can use the more generic concepts in SAR-O. For example, the Maritime SAR Ontology is a more domain-specific ontology for water search and rescue, whose ontology constructs can be linked to the more generic ones of SAR-O. SAR-O can be composed of various such modules to form a universal ontological model of SAR.
